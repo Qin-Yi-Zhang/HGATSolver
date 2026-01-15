@@ -22,6 +22,7 @@ python main.py
 ```
 ## Citation
 
+```bibtex
 @article{zhang2026hgatsolver,
   title     = {HGATSolver: A Heterogeneous Graph Attention Solver for Fluid--Structure Interaction},
   author    = {Zhang, Qin-Yi and Wang, Hong and Liu, Siyao and Lin, Haichuan and Cao, Linying and Zhou, Xiao-Hu and Chen, Chen and Wang, Shuangyi and Hou, Zeng-Guang},
